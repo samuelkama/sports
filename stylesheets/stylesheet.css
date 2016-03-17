@@ -1,7 +1,8 @@
 * {
   box-sizing: border-box; }
 
-body {background}:orange;
+body {
+  background-color :orange;
   padding: 0;
   margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
